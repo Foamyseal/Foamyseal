@@ -5,9 +5,9 @@
  * 😄 Pronouns: (He/Him/His)
  * 🔭 Studying Combined Major in CS @ the University of British Columbia. Transferred to CS in 2020 on a bet.
  * 💼 Incoming SWE Intern @ LinkedIn
+ * 🏢 Previously: BlackBerry, Hölmetrics
  * 📫 martin.auyeung1@gmail.com
  * 🤔 I mean, since you're here, you should check out hubble's repo (Top 2 Pinned), a Google Cloud Demo Week Top 3 Best in Show Project and winner of the Google Cloud COVID-19 Hackathon Fund
- * 🏢 Previously: BlackBerry, Hölmetrics
 
 
 
