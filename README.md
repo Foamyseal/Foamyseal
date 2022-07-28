@@ -7,6 +7,7 @@
  * 💼 Incoming SWE Intern @ LinkedIn
  * 📫 martin.auyeung1@gmail.com
  * 🤔 I mean, since you're here, you should check out hubble's repo (Top 2 Pinned), a Google Cloud Demo Week Top 3 Best in Show Project and winner of the Google Cloud COVID-19 Hackathon Fund
+ * 🏢 Previously: BlackBerry, Hölmetrics
 
 
 
