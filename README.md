@@ -4,9 +4,9 @@
  
  * 😄 Pronouns: (He/Him/His)
  * 🔭 Studying Combined Major in CS @ the University of British Columbia. 
- * 💼 Incoming SWE Intern @ LinkedIn
+ * 💼  SWE Intern @ LinkedIn
  * 🏢 Previously: BlackBerry, Hölmetrics
- * 📫 martin.auyeung1@gmail.com
+ * 📫 https://www.linkedin.com/in/martinauyeung/
 
 
 
